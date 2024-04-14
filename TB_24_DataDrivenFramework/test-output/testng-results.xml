@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-14T21:07:41 IST" name="Suite" finished-at="2024-04-14T21:08:00 IST" duration-ms="19175">
+    <groups>
+    </groups>
+    <test started-at="2024-04-14T21:07:41 IST" name="Test" finished-at="2024-04-14T21:08:00 IST" duration-ms="19175">
+      <class name="com.DDF.JpetStoreDemo.Test.JpetDemoTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.DDF.JpetStoreDemo.Test.JpetDemoTest@645aa696]" started-at="2024-04-14T21:07:37 IST" name="setUp" finished-at="2024-04-14T21:07:41 IST" duration-ms="4049" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="UrlLaunch(java.lang.String)[pri:0, instance:com.DDF.JpetStoreDemo.Test.JpetDemoTest@645aa696]" started-at="2024-04-14T21:07:41 IST" name="UrlLaunch" finished-at="2024-04-14T21:07:43 IST" duration-ms="2086" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://jpetstore.aspectran.com/account/newAccountForm]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UrlLaunch -->
+        <test-method is-config="true" signature="cookies()[pri:0, instance:com.DDF.JpetStoreDemo.Test.JpetDemoTest@645aa696]" started-at="2024-04-14T21:07:43 IST" name="cookies" finished-at="2024-04-14T21:07:43 IST" duration-ms="46" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cookies -->
+        <test-method is-config="true" signature="manage()[pri:0, instance:com.DDF.JpetStoreDemo.Test.JpetDemoTest@645aa696]" started-at="2024-04-14T21:07:43 IST" name="manage" finished-at="2024-04-14T21:07:43 IST" duration-ms="233" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- manage -->
+        <test-method signature="fillAcform(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:com.DDF.JpetStoreDemo.Test.JpetDemoTest@645aa696]" started-at="2024-04-14T21:07:43 IST" name="fillAcform" data-provider="accountForm" finished-at="2024-04-14T21:07:48 IST" duration-ms="4684" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[AbdulKalam29@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[APJ@123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Abdul]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Kalam]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[987654234]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Baner]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[GK]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Pune]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Maharahtra]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[45673]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[India]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[German]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[Birds]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fillAcform -->
+        <test-method is-config="true" signature="ScreenShot()[pri:0, instance:com.DDF.JpetStoreDemo.Test.JpetDemoTest@645aa696]" started-at="2024-04-14T21:07:48 IST" name="ScreenShot" finished-at="2024-04-14T21:07:48 IST" duration-ms="305" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ScreenShot -->
+        <test-method is-config="true" signature="manage()[pri:0, instance:com.DDF.JpetStoreDemo.Test.JpetDemoTest@645aa696]" started-at="2024-04-14T21:07:48 IST" name="manage" finished-at="2024-04-14T21:07:48 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- manage -->
+        <test-method signature="loginAccount(java.lang.String,java.lang.String)[pri:2, instance:com.DDF.JpetStoreDemo.Test.JpetDemoTest@645aa696]" started-at="2024-04-14T21:07:48 IST" name="loginAccount" data-provider="loginData" finished-at="2024-04-14T21:07:50 IST" duration-ms="1767" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[AbdulKalam29@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[APJ@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginAccount -->
+        <test-method is-config="true" signature="ScreenShot()[pri:0, instance:com.DDF.JpetStoreDemo.Test.JpetDemoTest@645aa696]" started-at="2024-04-14T21:07:50 IST" name="ScreenShot" finished-at="2024-04-14T21:07:50 IST" duration-ms="313" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ScreenShot -->
+        <test-method is-config="true" signature="manage()[pri:0, instance:com.DDF.JpetStoreDemo.Test.JpetDemoTest@645aa696]" started-at="2024-04-14T21:07:50 IST" name="manage" finished-at="2024-04-14T21:07:50 IST" duration-ms="17" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- manage -->
+        <test-method signature="addTocart()[pri:3, instance:com.DDF.JpetStoreDemo.Test.JpetDemoTest@645aa696]" started-at="2024-04-14T21:07:50 IST" name="addTocart" finished-at="2024-04-14T21:07:53 IST" duration-ms="2794" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addTocart -->
+        <test-method is-config="true" signature="ScreenShot()[pri:0, instance:com.DDF.JpetStoreDemo.Test.JpetDemoTest@645aa696]" started-at="2024-04-14T21:07:53 IST" name="ScreenShot" finished-at="2024-04-14T21:07:53 IST" duration-ms="307" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ScreenShot -->
+        <test-method is-config="true" signature="manage()[pri:0, instance:com.DDF.JpetStoreDemo.Test.JpetDemoTest@645aa696]" started-at="2024-04-14T21:07:53 IST" name="manage" finished-at="2024-04-14T21:07:53 IST" duration-ms="22" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- manage -->
+        <test-method signature="ConfirmMyOrder(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:4, instance:com.DDF.JpetStoreDemo.Test.JpetDemoTest@645aa696]" started-at="2024-04-14T21:07:53 IST" name="ConfirmMyOrder" data-provider="getBillingData" finished-at="2024-04-14T21:07:59 IST" duration-ms="6096" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[MasterCard]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2345678799]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[22/11]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Abdul]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Kalam]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Baner]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[GK]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Pune]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Maharahtra]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[45673]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[India]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConfirmMyOrder -->
+        <test-method is-config="true" signature="ScreenShot()[pri:0, instance:com.DDF.JpetStoreDemo.Test.JpetDemoTest@645aa696]" started-at="2024-04-14T21:07:59 IST" name="ScreenShot" finished-at="2024-04-14T21:08:00 IST" duration-ms="285" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ScreenShot -->
+        <test-method is-config="true" signature="DeleteCookie()[pri:0, instance:com.DDF.JpetStoreDemo.Test.JpetDemoTest@645aa696]" started-at="2024-04-14T21:08:00 IST" name="DeleteCookie" finished-at="2024-04-14T21:08:00 IST" duration-ms="57" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeleteCookie -->
+        <test-method is-config="true" signature="closeConnections()[pri:0, instance:com.DDF.JpetStoreDemo.Test.JpetDemoTest@645aa696]" started-at="2024-04-14T21:08:00 IST" name="closeConnections" finished-at="2024-04-14T21:08:00 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeConnections -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.DDF.JpetStoreDemo.Test.JpetDemoTest@645aa696]" started-at="2024-04-14T21:08:00 IST" name="tearDown" finished-at="2024-04-14T21:08:01 IST" duration-ms="669" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.DDF.JpetStoreDemo.Test.JpetDemoTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

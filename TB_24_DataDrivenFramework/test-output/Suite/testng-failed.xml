@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Test(failed)">
+    <parameter name="url" value="https://jpetstore.aspectran.com/account/newAccountForm"/>
+    <classes>
+      <class name="com.DDF.JpetStoreDemo.Test.JpetDemoTest">
+        <methods>
+          <include name="DeleteCookie"/>
+          <include name="closeConnections"/>
+          <include name="UrlLaunch"/>
+          <include name="ScreenShot"/>
+          <include name="ConfirmMyOrder" invocation-numbers="0"/>
+          <include name="tearDown"/>
+          <include name="manage"/>
+          <include name="cookies"/>
+          <include name="setUp"/>
+          <include name="addTocart"/>
+        </methods>
+      </class> <!-- com.DDF.JpetStoreDemo.Test.JpetDemoTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

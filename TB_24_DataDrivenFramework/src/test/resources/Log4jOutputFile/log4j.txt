@@ -1,0 +1,55 @@
+INFO	2024-04-10 11:39:38,016	0	com.DDF.DemowebShop.Test.DemoWebshop_Test	[main]	Connections Are closed
+INFO	2024-04-10 12:05:26,065	1	com.DDF.DemowebShop.Test.DemoWebshop_Test	[main]	Registration Successful with DataProvider
+INFO	2024-04-10 12:05:41,785	15721	com.DDF.DemowebShop.Test.DemoWebshop_Test	[main]	Login Successful with DataProvider
+INFO	2024-04-10 12:05:42,295	16231	com.DDF.DemowebShop.Test.DemoWebshop_Test	[main]	Connections Are closed
+INFO	2024-04-10 12:06:42,174	0	com.DDF.DemowebShop.Test.DemoWebshop_Test	[main]	Registration Successful with DataProvider
+INFO	2024-04-10 12:06:49,932	7758	com.DDF.DemowebShop.Test.DemoWebshop_Test	[main]	Login Successful with DataProvider
+INFO	2024-04-10 12:06:51,085	8911	com.DDF.DemowebShop.Test.DemoWebshop_Test	[main]	Connections Are closed
+INFO	2024-04-10 12:36:31,705	0	com.DDF.DemowebShop.Test.DemoWebshop_Test	[main]	Registration Successful with DataProvider
+INFO	2024-04-10 12:36:40,965	9260	com.DDF.DemowebShop.Test.DemoWebshop_Test	[main]	Login Successful with DataProvider
+INFO	2024-04-10 12:36:44,119	12414	com.DDF.DemowebShop.Test.DemoWebshop_Test	[main]	Connections Are closed
+INFO	2024-04-10 12:42:10,071	1	com.DDF.DemowebShop.Test.DemoWebshop_Test	[main]	Registration Successful with DataProvider
+INFO	2024-04-10 12:42:17,199	7129	com.DDF.DemowebShop.Test.DemoWebshop_Test	[main]	Login Successful with DataProvider
+INFO	2024-04-10 12:42:18,851	8781	com.DDF.DemowebShop.Test.DemoWebshop_Test	[main]	Connections Are closed
+INFO	2024-04-10 12:43:33,317	0	com.DDF.DemowebShop.Test.DemoWebshop_Test	[main]	Registration Successful with DataProvider
+INFO	2024-04-10 12:43:40,232	6915	com.DDF.DemowebShop.Test.DemoWebshop_Test	[main]	Login Successful with DataProvider
+INFO	2024-04-10 12:43:43,301	9984	com.DDF.DemowebShop.Test.DemoWebshop_Test	[main]	Connections Are closed
+INFO	2024-04-10 12:45:21,697	0	com.DDF.DemowebShop.Test.DemoWebshop_Test	[main]	Registration Successful with DataProvider
+INFO	2024-04-10 12:45:33,572	11875	com.DDF.DemowebShop.Test.DemoWebshop_Test	[main]	Login Successful with DataProvider
+INFO	2024-04-10 12:45:39,960	18263	com.DDF.DemowebShop.Test.DemoWebshop_Test	[main]	Connections Are closed
+INFO	2024-04-10 12:50:56,234	1	com.DDF.DemowebShop.Test.DemoWebshop_Test	[main]	Registration Successful with DataProvider
+INFO	2024-04-10 12:51:04,871	8638	com.DDF.DemowebShop.Test.DemoWebshop_Test	[main]	Login Successful with DataProvider
+INFO	2024-04-10 12:51:13,597	17364	com.DDF.DemowebShop.Test.DemoWebshop_Test	[main]	Connections Are closed
+INFO	2024-04-10 13:14:56,618	0	com.DDF.DemowebShop.Test.DemoWebshop_Test	[main]	Registration Successful with DataProvider
+INFO	2024-04-10 13:15:02,236	5618	com.DDF.DemowebShop.Test.DemoWebshop_Test	[main]	Login Successful with DataProvider
+INFO	2024-04-10 13:15:14,245	17627	com.DDF.DemowebShop.Test.DemoWebshop_Test	[main]	Connections Are closed
+INFO	2024-04-10 13:27:15,527	0	com.DDF.DemowebShop.Test.DemoWebshop_Test	[main]	Registration Successful with DataProvider
+INFO	2024-04-10 13:27:20,610	5083	com.DDF.DemowebShop.Test.DemoWebshop_Test	[main]	Login Successful with DataProvider
+INFO	2024-04-10 13:27:38,545	23018	com.DDF.DemowebShop.Test.DemoWebshop_Test	[main]	Connections Are closed
+INFO	2024-04-10 13:37:10,366	0	com.DDF.DemowebShop.Test.DemoWebshop_Test	[main]	Registration Successful with DataProvider
+INFO	2024-04-10 13:37:15,026	4660	com.DDF.DemowebShop.Test.DemoWebshop_Test	[main]	Login Successful with DataProvider
+INFO	2024-04-10 13:37:23,728	13362	com.DDF.DemowebShop.Test.DemoWebshop_Test	[main]	Connections Are closed
+INFO	2024-04-10 14:44:37,710	0	com.DDF.DemowebShop.Test.DemoWebshop_Test	[main]	Registration Successful with DataProvider
+INFO	2024-04-10 14:44:43,111	5401	com.DDF.DemowebShop.Test.DemoWebshop_Test	[main]	Login Successful with DataProvider
+INFO	2024-04-10 14:44:58,741	21031	com.DDF.DemowebShop.Test.DemoWebshop_Test	[main]	Connections Are closed
+INFO	2024-04-11 10:51:49,300	0	com.DDF.DemowebShop.Test.DemoWebshop_Test	[main]	Registration Successful with DataProvider
+INFO	2024-04-11 10:51:58,539	9239	com.DDF.DemowebShop.Test.DemoWebshop_Test	[main]	Login Successful with DataProvider
+INFO	2024-04-11 10:52:25,051	35751	com.DDF.DemowebShop.Test.DemoWebshop_Test	[main]	Connections Are closed
+INFO	2024-04-14 12:35:45,626	0	com.DDF.DemowebShop.Test.DemoWebshop_Test	[main]	Connections Are closed
+INFO	2024-04-14 12:46:56,920	0	com.DDF.DemowebShop.Test.DemoWebshop_Test	[main]	Connections Are closed
+INFO	2024-04-14 12:48:57,114	0	com.DDF.DemowebShop.Test.DemoWebshop_Test	[main]	Connections Are closed
+INFO	2024-04-14 12:55:05,906	0	com.DDF.DemowebShop.Test.DemoWebshop_Test	[main]	Connections Are closed
+INFO	2024-04-14 13:01:09,578	0	com.DDF.DemowebShop.Test.DemoWebshop_Test	[main]	Connections Are closed
+INFO	2024-04-14 13:03:08,710	0	com.DDF.DemowebShop.Test.DemoWebshop_Test	[main]	Connections Are closed
+INFO	2024-04-14 13:04:55,507	0	com.DDF.DemowebShop.Test.DemoWebshop_Test	[main]	Connections Are closed
+INFO	2024-04-14 13:06:53,755	0	com.DDF.DemowebShop.Test.DemoWebshop_Test	[main]	Connections Are closed
+INFO	2024-04-14 14:42:03,277	0	com.DDF.DemowebShop.Test.DemoWebshop_Test	[main]	Connections Are closed
+INFO	2024-04-14 14:53:24,978	0	com.DDF.DemowebShop.Test.DemoWebshop_Test	[main]	Connections Are closed
+INFO	2024-04-14 14:54:55,465	0	com.DDF.DemowebShop.Test.DemoWebshop_Test	[main]	Connections Are closed
+INFO	2024-04-14 15:10:59,469	0	com.DDF.DemowebShop.Test.DemoWebshop_Test	[main]	Connections Are closed
+INFO	2024-04-14 20:59:53,622	0	com.DDF.DemowebShop.Test.DemoWebshop_Test	[main]	Registration Successful with DataProvider
+INFO	2024-04-14 21:01:00,404	0	com.DDF.DemowebShop.Test.DemoWebshop_Test	[main]	Connections Are closed
+INFO	2024-04-14 21:02:24,970	0	com.DDF.DemowebShop.Test.DemoWebshop_Test	[main]	Connections Are closed
+INFO	2024-04-14 21:04:39,693	0	com.DDF.DemowebShop.Test.DemoWebshop_Test	[main]	Connections Are closed
+INFO	2024-04-14 21:07:04,441	0	com.DDF.DemowebShop.Test.DemoWebshop_Test	[main]	Connections Are closed
+INFO	2024-04-14 21:08:00,243	0	com.DDF.DemowebShop.Test.DemoWebshop_Test	[main]	Connections Are closed
