@@ -8,7 +8,7 @@ import org.openqa.selenium.support.ui.Select;
 public class Billing {
 	WebDriver driver;
 	
-	@FindBy (id="BillingNewAddress_Company")
+	@FindBy (id="BillingNewAddress_Company22")
 	WebElement compny;
 	@FindBy(id="BillingNewAddress_CountryId")
 	WebElement contry;
@@ -46,7 +46,6 @@ public class Billing {
 		phn.sendKeys(phnNo);
 		faxno.sendKeys(fax);
 		contBtn.click();
-		
 	}
 	
 	

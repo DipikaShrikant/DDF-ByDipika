@@ -53,3 +53,12 @@ INFO	2024-04-14 21:02:24,970	0	com.DDF.DemowebShop.Test.DemoWebshop_Test	[main]	
 INFO	2024-04-14 21:04:39,693	0	com.DDF.DemowebShop.Test.DemoWebshop_Test	[main]	Connections Are closed
 INFO	2024-04-14 21:07:04,441	0	com.DDF.DemowebShop.Test.DemoWebshop_Test	[main]	Connections Are closed
 INFO	2024-04-14 21:08:00,243	0	com.DDF.DemowebShop.Test.DemoWebshop_Test	[main]	Connections Are closed
+INFO	2024-04-19 12:00:17,685	0	com.DDF.DemowebShop.Test.DemoWebshop_Test	[main]	Registration Successful with DataProvider
+INFO	2024-04-19 12:00:33,434	15749	com.DDF.DemowebShop.Test.DemoWebshop_Test	[main]	Login Successful with DataProvider
+INFO	2024-04-19 12:01:11,756	54071	com.DDF.DemowebShop.Test.DemoWebshop_Test	[main]	Connections Are closed
+INFO	2024-04-19 12:03:01,365	0	com.DDF.DemowebShop.Test.DemoWebshop_Test	[main]	Registration Successful with DataProvider
+INFO	2024-04-19 12:03:18,734	17369	com.DDF.DemowebShop.Test.DemoWebshop_Test	[main]	Login Successful with DataProvider
+INFO	2024-04-19 12:03:56,431	55066	com.DDF.DemowebShop.Test.DemoWebshop_Test	[main]	Connections Are closed
+INFO	2024-04-19 12:05:21,698	0	com.DDF.DemowebShop.Test.DemoWebshop_Test	[main]	Connections Are closed
+INFO	2024-04-19 12:06:04,951	0	com.DDF.DemowebShop.Test.DemoWebshop_Test	[main]	Connections Are closed
+INFO	2024-04-19 12:07:47,041	0	com.DDF.DemowebShop.Test.DemoWebshop_Test	[main]	Connections Are closed

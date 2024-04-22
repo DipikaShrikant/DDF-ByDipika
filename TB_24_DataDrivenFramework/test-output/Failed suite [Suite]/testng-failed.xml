@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Failed suite [Suite]]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Test(failed)(failed)">
+    <parameter name="url" value="https://demowebshop.tricentis.com/register"/>
+    <classes>
+      <class name="com.DDF.DemowebShop.Test.DemoWebshop_Test">
+        <methods>
+          <include name="setUp"/>
+          <include name="manage"/>
+          <include name="cookies"/>
+          <include name="payment"/>
+          <include name="tearDown"/>
+          <include name="logOut"/>
+          <include name="UrlLaunch"/>
+          <include name="shiping"/>
+          <include name="ScreenShot"/>
+          <include name="DeleteCookie"/>
+          <include name="Billingdetails" invocation-numbers="0"/>
+          <include name="closeConnections"/>
+        </methods>
+      </class> <!-- com.DDF.DemowebShop.Test.DemoWebshop_Test -->
+    </classes>
+  </test> <!-- Test(failed)(failed) -->
+</suite> <!-- Failed suite [Failed suite [Suite]] -->

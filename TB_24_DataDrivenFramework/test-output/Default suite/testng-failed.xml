@@ -3,19 +3,25 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.DDF.JpetStoreDemo.Test.JpetDemoTest">
+      <class name="com.DDF.DemowebShop.Test.DemoWebshop_Test">
         <methods>
-          <include name="DeleteCookie"/>
-          <include name="closeConnections"/>
-          <include name="UrlLaunch"/>
-          <include name="ScreenShot"/>
-          <include name="tearDown"/>
           <include name="manage"/>
           <include name="cookies"/>
+          <include name="tearDown"/>
+          <include name="addProduct"/>
+          <include name="logOut"/>
+          <include name="registerTest"/>
+          <include name="shiping"/>
+          <include name="DeleteCookie"/>
           <include name="setUp"/>
-          <include name="fillAcform"/>
+          <include name="loginCheckWithExcel"/>
+          <include name="payment"/>
+          <include name="UrlLaunch"/>
+          <include name="ScreenShot"/>
+          <include name="Billingdetails"/>
+          <include name="closeConnections"/>
         </methods>
-      </class> <!-- com.DDF.JpetStoreDemo.Test.JpetDemoTest -->
+      </class> <!-- com.DDF.DemowebShop.Test.DemoWebshop_Test -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
