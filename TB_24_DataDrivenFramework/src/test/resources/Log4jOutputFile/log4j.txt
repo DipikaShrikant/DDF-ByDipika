@@ -62,3 +62,6 @@ INFO	2024-04-19 12:03:56,431	55066	com.DDF.DemowebShop.Test.DemoWebshop_Test	[ma
 INFO	2024-04-19 12:05:21,698	0	com.DDF.DemowebShop.Test.DemoWebshop_Test	[main]	Connections Are closed
 INFO	2024-04-19 12:06:04,951	0	com.DDF.DemowebShop.Test.DemoWebshop_Test	[main]	Connections Are closed
 INFO	2024-04-19 12:07:47,041	0	com.DDF.DemowebShop.Test.DemoWebshop_Test	[main]	Connections Are closed
+INFO	2024-04-26 13:06:19,938	0	com.DDF.DemowebShop.Test.DemoWebshop_Test	[main]	Registration Successful with DataProvider
+INFO	2024-04-26 13:07:01,035	41097	com.DDF.DemowebShop.Test.DemoWebshop_Test	[main]	Login Successful with DataProvider
+INFO	2024-04-26 13:07:47,851	87913	com.DDF.DemowebShop.Test.DemoWebshop_Test	[main]	Connections Are closed
